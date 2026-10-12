@@ -5,7 +5,7 @@ Landing del proyecto «Muestra el talento de tu amigo artista con un website» d
 ## Archivos
 
 - `index.html`: portada, sobre mí, trayectoria, próximas presentaciones y contacto; HTML semántico, accesibilidad y Schema.org mediante Microdata `Person`.
-- `styles.css`: diseño adaptable, tipografía y estados de foco.
+- `css/styles.css`: diseño adaptable, tipografía y estados de foco.
 - `assets/danz/`: cinco fotografías WebP utilizadas en la web y favicon SVG.
 
 ## Abrir
