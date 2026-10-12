@@ -38,5 +38,5 @@ Landing de DANZ, DJ en A Coruña, desarrollada únicamente con HTML y CSS sobre 
 
 - Aprobación del estudiante: recibida.
 - Repositorio propio público: creado.
-- Commit y subida: en preparación; comprobar el historial de GitHub para el estado efectivo.
-- Envío en 4Geeks: todavía no realizado.
+- Código aprobado: commit 2af1fb7, subido y comprobado en GitHub. Historial de la plantilla conservado.
+- 4Geeks: las 12 casillas aparecen marcadas. La página del enunciado no presenta un formulario de entrega; «Empezar proyecto» abre instrucciones de entorno en la nube. El repositorio y el texto anterior están listos para compartir según las indicaciones del instructor. No se ha enviado ningún mensaje al instructor.

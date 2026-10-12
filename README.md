@@ -37,8 +37,6 @@ FUENTES-Y-REFERENCIAS.md    Procedencia del contenido y decisiones visuales
 ENTREGA.md                 Revisión del enunciado y procedimiento de entrega
 ```
 
-La versión anterior de Vera Soler se conserva fuera del repositorio de la web, en `../output/archivo-vera-soler/`. La web activa ya no contiene su identidad ni sus ilustraciones.
-
 ## Validar
 
 Herramienta de comprobación externa al proyecto:
